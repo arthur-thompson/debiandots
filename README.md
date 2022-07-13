@@ -1,6 +1,6 @@
 # dots
 
-environment variables, lfrc, zshrc, terminal apps list
+environment variables, lfrc, zshrc, tmux.conf, terminal apps list
 
 to install terminal apps (requires aur helper):
 
