@@ -1,0 +1,16 @@
+neofetch
+man-db
+neovim
+zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+htop
+tmux
+w3m
+git
+lf-bin
+fzf
+ripgrep
+fd
+bat
+alsa-utils
