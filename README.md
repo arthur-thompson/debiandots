@@ -2,4 +2,6 @@
 
 environment variables, lfrc, zshrc, terminal apps list
 
-*requires aur helper
+to install terminal apps (requires aur helper):
+
+$ yay -S --needed - < terminal-pkglist.txt
