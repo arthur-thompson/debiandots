@@ -1,4 +1,4 @@
-# dots
+# dotfiles-cli
 
 environment variables, lfrc, zshrc, tmux.conf, terminal apps list
 
