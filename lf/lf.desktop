@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=lf
+Comment=List files
+Exec=lf
+Icon=system-file-manager
+Terminal=true
+Type=Application
+Comment=Browse the file system and manage the files
+Categories=System;FileTools;FileManager;Utility
