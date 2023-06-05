@@ -99,5 +99,5 @@ cmd zip ${{
     rm -rf $1
 }}
 
-set hidden on
-set incsearch on
+set hidden true
+set incsearch true
