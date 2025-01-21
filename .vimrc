@@ -1,0 +1,15 @@
+set nocompatible
+filetype on
+syntax on
+set number
+set incsearch
+set ignorecase
+set smartcase
+set hlsearch
+set wildmenu
+set wildmode=list:longest
+set undofile
+set mouse=a
+set clipboard=unnamedplus
+colorscheme zellner
+source /usr/share/doc/fzf/examples/fzf.vim
