@@ -14,7 +14,12 @@ promptinit
 
 prompt redhat
 
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-alias r=ranager
+alias r=ranger
+alias s='systemctl suspend'
+alias up='sudo apt update && sudo apt upgrade -y'
+
+export FZF_DEFAULT_COMMAND='find .'
+
+
