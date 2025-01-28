@@ -19,7 +19,6 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 alias r=ranger
 alias s='systemctl suspend'
 alias up='sudo apt update && sudo apt upgrade -y'
+alias n='nnn -H -e'
 
 export FZF_DEFAULT_COMMAND='find .'
-
-
