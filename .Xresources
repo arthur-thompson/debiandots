@@ -1,0 +1,25 @@
+URxvt.reverseVideo: True
+URxvt.secondaryScreen: 1
+URxvt.secondaryScroll: 0
+!URxvt.font: -xos4-terminus-medium-r-normal--18-180-72-72-c-100-iso10646-1 
+URxvt.font: -misc-fixed-medium-r-normal--18-120-100-100-c-90-iso10646-1
+URxvt.perl-ext:
+URxvt.perl-ext-common:
+
+!URxvt*inheritPixmap: true
+!URxvt*transparent: true
+! URxvt*shading: 0 to 99 darkens, 101 to 200 lightens
+!URxvt*shading: 50
+
+!URxvt.depth: 32
+!URxvt.background: [50]#ffffff
+
+!xterm*faceName: fixed
+!xterm*faceSize: 10
+xterm*background: black
+xterm*foreground: white
+
+!xterm*font:  9x15
+
+xterm*faceName: terminus
+xterm*faceSize: 12
