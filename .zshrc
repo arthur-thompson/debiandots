@@ -12,7 +12,7 @@ compinit
 promptinit
 # End of lines added by compinstall
 
-prompt redhat
+prompt adam1
 
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
