@@ -16,6 +16,7 @@ prompt adam1
 
 source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+alias ls='ls --color=yes'
 alias r=ranger
 alias s='systemctl suspend'
 alias up='sudo apt update && sudo apt upgrade -y'
