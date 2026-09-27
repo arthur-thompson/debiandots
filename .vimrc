@@ -12,6 +12,7 @@ set wildmode=longest:full
 set undofile
 set mouse=a
 set clipboard=unnamedplus
+
 source /usr/share/doc/fzf/examples/fzf.vim
 
 "Install vimplug if its not already and specify plugins
@@ -24,6 +25,7 @@ endif
 call plug#begin()
 
 Plug 'c9rgreen/vim-colors-modus'
+Plug 'vifm/vifm.vim'
 
 call plug#end()
 
@@ -41,4 +43,4 @@ nmap <Leader>d :bd<CR>
 nmap <Leader>b :bnext<CR>
 nmap <Leader>o :bro ol<CR>
 nmap <Leader>e :e.<CR>
-
+nmap <Leader>v :Vifm<CR>
