@@ -25,5 +25,6 @@ alias v=vifm
 alias s='systemctl suspend'
 alias up='sudo apt update && sudo apt upgrade -y'
 alias n='nnn -H -e'
+alias f=fastfetch
 
 export FZF_DEFAULT_COMMAND='find .'
