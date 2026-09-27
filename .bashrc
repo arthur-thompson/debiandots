@@ -7,6 +7,6 @@ export NNN_OPTS="He"
 
 alias up='sudo apt update && sudo apt upgrade -y'
 alias s='systemctl suspend'
-#alias n='nnn -H -e'
+alias n=nnn
 alias f=fastfetch
 alias ls='ls --color=yes'
